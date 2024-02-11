@@ -1,0 +1,12 @@
+cart 
+belt 
+add 
+brain 
+solar 
+edge 
+punch 
+metal 
+kitchen 
+dwarf 
+dose 
+lucky
